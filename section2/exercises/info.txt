@@ -1,0 +1,4 @@
+drwxr-xr-x 1 GMX+002625631 4096        0 set 16  2020 STLogs/
+lrwxrwxrwx 1 GMX+002625631 4096       71 set  1  2020 Templates -> /c/Users/DouglasCanevarollo/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 GMX+002625631 4096        0 ago 26  2021 Videos/
+drwxr-xr-x 1 GMX+002625631 4096        0 out 29  2020 windows-amd64/
